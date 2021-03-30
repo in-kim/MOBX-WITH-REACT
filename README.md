@@ -1,3 +1,3 @@
 # mobx with react study
 
-## counter example
+counter example
